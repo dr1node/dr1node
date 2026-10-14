@@ -11,6 +11,6 @@
 
 **DIGITAL CASE FILE // 001**
 
-`Developer` · `Learning by building`
+`internet diver` · `Just a curious boy`
 
 </div>
