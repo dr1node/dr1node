@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/retro-database.gif" width="100%" alt="Retro Detective Database"/>
+<img src="assets/dr1node_retro_crt_glitch.gif" width="100%" alt="Retro Detective Database"/>
 
 </div>
 
