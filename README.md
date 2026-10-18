@@ -7,7 +7,7 @@
 
 <div align="center">
 
-`REGI P.` · `DR1NODE`
+`KUDO` · `DR1NODE`
 
 **DIGITAL CASE FILE // 001**
 
