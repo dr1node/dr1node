@@ -8,7 +8,7 @@
 
 <br/>
 
-<sub>recently played</sub>
+<sub>recently some song played</sub>
 
 <br/>
 
