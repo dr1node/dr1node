@@ -5,8 +5,8 @@
     <div align="center">
       <a href="https://rex.is-a.dev/">
         <img
-          src="assets/discord-status.png"
-          width="320"
+          src="assets/favicon.jfif"
+          width="150"
           alt="Discord Status"
         />
       </a>
