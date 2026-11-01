@@ -1,48 +1,59 @@
 <body>
   <center>
-    <h1 align="center">~ ⚡ Welcome to My Profile ⚡ ~</h1>
+    <h1 align="center">~  Welcome to my Profile XD ~</h1>
     <br>
     <div align="center">
-      <!-- Replace with your Discord ID / profile -->
-      <a href="https://discord.com/users/rexzr777">
-        <img src="assets/discord-status.png" alt="Discord Status" />
+      <a href="https://rex.is-a.dev/">
+        <img
+          src="assets/discord-status.png"
+          width="320"
+          alt="Discord Status"
+        />
       </a>
       <br>
       <p>Curiosity drives discovery.</p>
       <p>Build things. Break things. Understand how they work.</p>
-      <p>From software experiments to hands-on DIY projects.</p>
+      <p>From software experiments to hands-on diy projects.</p>
       <p>Always exploring something new.</p>
       <p>
-        <a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">
-          - TECHNO TRAIN - Electric Callboy
+        <a href="https://rex.is-a.dev/works">
+          - My work
         </a>
       </p>
     </div>
     <div align="center">
       <!-- Optional banner -->
-      <!-- <img src="assets/dr1node_retro_crt_glitch.gif"> -->
+      <!-- <img src="assets/dr1node_retro_crt_glitch.gif" width="90%" alt="Banner"> -->
     </div>
     <div>
-      <h2 align="center">~ About Me ~</h2>
+      <h2 align="center">~ About me ~</h2>
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ6OXprMTQ3a3Zzc2EzMnVla3VycXFuN3h0cGlrc20ybTI2eXdjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D9T6XgIdZlVe9XbN05/giphy.gif" align="right" alt="About Me" />
+        <img
+          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ6OXprMTQ3a3Zzc2EzMnVla3VycXFuN3h0cGlrc20ybTI2eXdjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D9T6XgIdZlVe9XbN05/giphy.gif"
+          align="right"
+          width="340"
+          alt="About Me"
+        />
       </div>
       <li><b>Name:</b> dr1node</li>
-      <li><b>Role:</b> Developer & Tinkerer</li>
-      <li><b>Interests:</b> Software, DIY, Hardware Experiments</li>
-      <li><b>Hobbies:</b> Gaming, Coding, Exploring Technology</li>
-      <li><b>Into:</b> Marvel, Astronomy, Military History</li>
-      <li><b>Mindset:</b> Learn, Experiment, Repeat</li>
+      <li><b>Role:</b> Dev n tinkerer</li>
+      <li><b>Interests:</b> Software, diy, hardware experiments</li>
+      <li><b>Hobbies:</b> Gaming, coding, exploring tech</li>
+      <li><b>Into:</b> Shinichi Kudo, marvel, astronomy, military history</li>
+      <li><b>Mindset:</b> Learn, experiment, repeat</li>
       <br><br><br><br>
     </div>
     <div>
       <h2 align="center">~ Knowledge & Technologies ~</h2>
       <br>
-      <p>
-        <div align="center">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ6OXprMTQ3a3Zzc2EzMnVla3VycXFuN3h0cGlrc20ybTI2eXdjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9oH8piVtyX0RzwAsXb/giphy.gif" align="right" alt="Technology" />
-        </div>
-      </p>
+      <div align="center">
+        <img
+          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ6OXprMTQ3a3Zzc2EzMnVla3VycXFuN3h0cGlrc20ybTI2eXdjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9oH8piVtyX0RzwAsXb/giphy.gif"
+          align="right"
+          width="430"
+          alt="Technology"
+        />
+      </div>
     </div>
     <div>
       <br>
@@ -63,7 +74,11 @@
       <div>
         <h2 align="center">~ Thanks for Stopping By ~</h2>
         <div align="center">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ6OXprMTQ3a3Zzc2EzMnVla3VycXFuN3h0cGlrc20ybTI2eXdjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVpidBunNchzXu5t7l/giphy.gif" alt="Footer Animation" />
+          <img
+            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ6OXprMTQ3a3Zzc2EzMnVla3VycXFuN3h0cGlrc20ybTI2eXdjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVpidBunNchzXu5t7l/giphy.gif"
+            width="75%"
+            alt="Footer Animation"
+          />
         </div>
         <hr>
       </div>
