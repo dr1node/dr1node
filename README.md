@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="assets/dr1node_retro_crt_glitch.gif" width="100%" alt="Retro Detective Database"/>
 
@@ -16,6 +16,6 @@
 
 **♫ CURRENTLY IN MY HEAD**
 
-[<!-- Spotify Recently Played: paste Markdown widget code here -->](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bdwkynvv5aqic4pbdr2tqnbshq&width=580&radius=24&time=0&logo=0)
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bdwkynvv5aqic4pbdr2tqnbshq&width=580&radius=24&time=0&logo=0" width="580" alt="Spotify Recently Played"/>
 
 </div>
