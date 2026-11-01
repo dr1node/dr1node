@@ -35,7 +35,7 @@
           alt="About Me"
         />
       </div>
-      <li><b>Name:</b> dr1node</li>
+      <li><b>Name:</b> Eiji_Kudo/Rex/Regi <- my irl name :) </li>
       <li><b>Role:</b> Dev n tinkerer</li>
       <li><b>Interests:</b> Software, diy, hardware experiments</li>
       <li><b>Hobbies:</b> Gaming, coding, exploring tech</li>
