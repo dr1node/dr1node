@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="100%" alt="DR1NODE Terminal Archive"/>
+<img src="assets/dr1node-typing.svg" width="100%" alt="DR1NODE Terminal Archive"/>
 
 <sub>dr1node — curious by nature.</sub>
 
