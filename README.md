@@ -38,7 +38,7 @@
       <li><b>Name:</b> EijiKudo/Rex/Regi <- my irl name :) </li>
       <li><b>Role:</b> Dev n tinkerer</li>
       <li><b>Interests:</b> Software, diy, hardware experiments</li>
-      <li><b>Hobbies:</b> Gaming, coding, exploring tech</li>
+      <li><b>Hobbies:</b> Coding, exploring tech, a bit of gaming</li>
       <li><b>Into:</b> Shinichi Kudo, marvel, astronomy, military history</li>
       <li><b>Mindset:</b> Learn, experiment, repeat</li>
       <br><br><br><br>
