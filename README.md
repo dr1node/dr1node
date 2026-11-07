@@ -86,3 +86,4 @@
     </div>
   </center>
 </body>
+[![Starred on StarSwap](https://www.fenriryt.me/badge/dr1node)](https://www.fenriryt.me/u/dr1node?ref=badge)
