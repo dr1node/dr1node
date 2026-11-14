@@ -29,7 +29,7 @@
       <h2 align="center">~ About me ~</h2>
       <div align="center">
         <img
-          src="assets/Mycat.gif"
+          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ6OXprMTQ3a3Zzc2EzMnVla3VycXFuN3h0cGlrc20ybTI2eXdjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D9T6XgIdZlVe9XbN05/giphy.gif"
           align="right"
           width="340"
           alt="About Me"
