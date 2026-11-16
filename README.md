@@ -12,9 +12,9 @@
       </a>
       <br>
       <p>Curiosity drives discovery.</p>
-      <p>Build things. Break things. Understand how they work.</p>
+      <p>Just messing around with code, building random stuff, and learning new things btw.</p>
       <p>From software experiments to hands-on diy projects.</p>
-      <p>Always exploring something new.</p>
+      <p>Kinda into anything that gets me curious tbh.</p>
       <p>
         <a href="https://rex.is-a.dev/works">
           - My work
