@@ -11,7 +11,7 @@
         />
       </a>
       <br>
-      <p>Just here to figure things out.</p>
+      <p>Here to figure things out.</p>
       <p>Just messing around with code, building random stuff, and learning new things btw.</p>
       <p>From software experiments to hands-on diy projects.</p>
       <p>Kinda into anything that gets me curious tbh.</p>
